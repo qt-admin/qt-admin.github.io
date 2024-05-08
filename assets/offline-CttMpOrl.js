@@ -1,0 +1,1 @@
+import{_ as o,f as t,o as c,k as n}from"./index--nBzsfPe.js";const s={};function r(_,a){const e=t("el-empty");return c(),n(e,{class:"mt-70",description:"未找到网络","image-size":180})}const m=o(s,[["render",r]]);export{m as default};
